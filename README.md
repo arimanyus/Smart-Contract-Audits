@@ -1,8 +1,7 @@
 # Smart-Contract-Audits
 Audits done for @AphelionLabs
 <h1 align="center">Hi 👋, I'm Vivek</h1>
-<h3 align="center">A passionate smart contract auditor</h3>
-<h4 align="center">This repo contains all my smart contract reports that I've done with Aphelion Labs, and have the permission to display publicly</h4>
+<h4 align="center">This repo contains all my smart contract reports that I've done in partnership with Aphelion Labs, and have the permission to display publicly</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">vivek@aphelion.in</p>
